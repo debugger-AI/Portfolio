@@ -1,3 +1,21 @@
 title: Jeremy Nyende
 logo: af2622b91d89e94e2c8a801d9775648b.jpg
 theme : jekyll-theme-minimal
+description: "Data Scientist · AI Engineer.
+url: "https://debugger-ai.github.io/Portfolio/" 
+baseurl: ""
+remote_theme: "mmistakes/minimal-mistakes"
+
+author:
+  name: "Jeremy Nyende"
+  bio: "Kenyan Data Scientist building AI systems for f
+
+social:
+  github: yourusername
+  linkedin: your-link
+  twitter: your-handle
+  email: your@email.com
+
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
